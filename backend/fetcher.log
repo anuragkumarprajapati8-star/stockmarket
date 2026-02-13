@@ -1,0 +1,686 @@
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING AAPL ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING AAPL ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING GOOGL ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING AAPL ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING GOOGL ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING TATA ---
+FAIL: Empty DF from yfinance for TATA
+
+--- FETCHING TATA.NS ---
+FAIL: Empty DF from yfinance for TATA.NS
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING META ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING TATA ---
+FAIL: Empty DF from yfinance for TATA
+
+--- FETCHING TATA ---
+FAIL: Empty DF from yfinance for TATA
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ASA ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 503 rows (dropped 0 NaNs)
+
+--- FETCHING TATA ---
+FAIL: Empty DF from yfinance for TATA
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ADANIPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ADANIPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ADANIPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ADANIPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ADANIPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ADANIPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ADANIPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ADANIPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ADANIPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING ADANIPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TATAPOWER ---
+FAIL: Empty DF from yfinance for TATAPOWER
+
+--- FETCHING ADANIPOWERS ---
+FAIL: Empty DF from yfinance for ADANIPOWERS
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TATAPOWER.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 495 rows (dropped 0 NaNs)
+
+--- FETCHING AAPL ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 127 rows (dropped 0 NaNs)
+
+--- FETCHING MSFT ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 127 rows (dropped 0 NaNs)
+
+--- FETCHING GOOGL ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 127 rows (dropped 0 NaNs)
+
+--- FETCHING AAPL ---
+Raw columns: ['Date', 'Close', 'High', 'Low', 'Open', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Close', 'High', 'Low', 'Open', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 251 rows (dropped 1 NaNs)
+
+--- FETCHING MSFT ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 251 rows (dropped 0 NaNs)
+
+--- FETCHING GOOGL ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 251 rows (dropped 0 NaNs)
+
+--- FETCHING AMZN ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 251 rows (dropped 0 NaNs)
+
+--- FETCHING NVDA ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 251 rows (dropped 0 NaNs)
+
+--- FETCHING AAPL ---
+Raw columns: ['Date', 'Close', 'High', 'Low', 'Open', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Close', 'High', 'Low', 'Open', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 251 rows (dropped 1 NaNs)
+
+--- FETCHING MSFT ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 251 rows (dropped 0 NaNs)
+
+--- FETCHING GOOGL ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 251 rows (dropped 0 NaNs)
+
+--- FETCHING AMZN ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 251 rows (dropped 0 NaNs)
+
+--- FETCHING NVDA ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 251 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 496 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 496 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 496 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 496 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)
+
+--- FETCHING TCS.NS ---
+Raw columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+Cleaned columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Dividends', 'Stock Splits']
+SUCCESS: Returning 497 rows (dropped 0 NaNs)

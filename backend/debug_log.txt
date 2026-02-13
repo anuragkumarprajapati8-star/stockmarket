@@ -1,0 +1,45 @@
+--- TESTING TCS.NS ---
+SUCCESS: TCS.NS returned 497 rows
+Columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+Head: 
+        Date  ...   Volume
+0 2024-02-06  ...  4474396
+1 2024-02-07  ...  2124267
+
+[2 rows x 6 columns]
+Tail: 
+          Date  ...   Volume
+495 2026-02-05  ...  3521545
+496 2026-02-06  ...  4686333
+
+[2 rows x 6 columns]
+--- TESTING META ---
+SUCCESS: META returned 503 rows
+Columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+Head: 
+        Date  ...    Volume
+0 2024-02-06  ...  21655200
+1 2024-02-07  ...  23066000
+
+[2 rows x 6 columns]
+Tail: 
+          Date  ...    Volume
+501 2026-02-05  ...  16982500
+502 2026-02-06  ...  10959293
+
+[2 rows x 6 columns]
+--- TESTING AAPL ---
+SUCCESS: AAPL returned 503 rows
+Columns: ['Date', 'Open', 'High', 'Low', 'Close', 'Volume']
+Head: 
+        Date  ...    Volume
+0 2024-02-06  ...  43490800
+1 2024-02-07  ...  53439000
+
+[2 rows x 6 columns]
+Tail: 
+          Date  ...    Volume
+501 2026-02-05  ...  52716800
+502 2026-02-06  ...  29723605
+
+[2 rows x 6 columns]
